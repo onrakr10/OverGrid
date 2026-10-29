@@ -19,7 +19,7 @@ st.markdown(
     .badge-under { background-color: #d50000; color: white; padding: 6px 12px; border-radius: 6px; font-weight: bold; }
     </style>
 """,
-    unsafe_allow_style=True,
+    unsafe_allow_html=True,
 )
 
 # 1. PDF SENSÖR VERİLERİ (Sistemdeki 30 Takım Verisi)
