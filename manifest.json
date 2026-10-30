@@ -1,0 +1,19 @@
+{
+  "name": "OverGrid Elite - NBA Advanced Analytics",
+  "short_name": "OverGrid",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0e1117",
+  "theme_color": "#0e1117",
+  "description": "Profesyonel NBA maç analizi ve over/under line olasılık hesaplama motoru.",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
