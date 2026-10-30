@@ -351,8 +351,8 @@ elif selected_tab == "📅 Maç Günü":
       ("Toronto", "Orlando", "02:30 TSİ"),
       ("Dallas", "Houston", "03.00 TSİ"),
       ("Miami", "Indiana", "03.00 TSİ"),
-      ("Minnesota", "La Clippers", "03.00 TSİ"),
-      ("Golden state", "La Lakers", "05.00 TSİ"),
+      ("Minnesota", "LA Clippers", "03.00 TSİ"),
+      ("Golden State", "LA Lakers", "05.00 TSİ"),
       ("Phoenix", "Denver", "05.00 TSİ"),
   ]
 
