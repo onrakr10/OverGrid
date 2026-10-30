@@ -344,11 +344,16 @@ elif selected_tab == "📅 Maç Günü":
   )
 
   todays_matches = [
-      ("Boston", "Miami", "02:30 TSİ"),
-      ("Golden State", "LA Lakers", "05:00 TSİ"),
-      ("Denver", "Dallas", "03:00 TSİ"),
-      ("Milwaukee", "New York", "02:00 TSİ"),
-      ("Phoenix", "Oklahoma", "04:30 TSİ"),
+      ("Washington", "Charlotte", "02:00 TSİ"),
+      ("Boston", "Chicago", "02:30 TSİ"),
+      ("Brooklyn", "Detroit", "02:30 TSİ"),
+      ("Phila", "New york", "02:30 TSİ"),
+      ("Toronto", "Orlando", "02:30 TSİ"),
+      ("Dallas", "Houston", "03.00 TSİ"),
+      ("Miami", "Indiana", "03.00 TSİ"),
+      ("Minnesota", "La clippers", "03.00 TSİ"),
+      ("Golden state", "La lakers", "05.00 TSİ"),
+      ("Phoenix", "Denver", "05.00 TSİ"),
   ]
 
   for idx, (hm, aw, m_time) in enumerate(todays_matches):
