@@ -1,0 +1,24 @@
+{
+  "short_name": "OverGrid",
+  "name": "OverGrid Pro",
+  "icons": [
+    {
+      "src": "favicon_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://overgrid-3ddvacewf84vpiezv6gqim.streamlit.app/",
+  "display": "standalone",
+  "theme_color": "#0e1117",
+  "background_color": "#0e1117",
+  "description": "Elite AI NBA Prediction Engine &amp; Analytics",
+  "lang": "tr",
+  "scope": "/",
+  "orientation": "portrait",
+  "categories": [
+    "finance",
+    "sports",
+    "utilities"
+  ]
+}
