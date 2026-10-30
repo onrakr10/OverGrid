@@ -347,7 +347,7 @@ elif selected_tab == "📅 Maç Günü":
       ("Washington", "Charlotte", "02:00 TSİ"),
       ("Boston", "Chicago", "02:30 TSİ"),
       ("Brooklyn", "Detroit", "02:30 TSİ"),
-      ("Phila", "New york", "02:30 TSİ"),
+      ("Phila", "New York", "02:30 TSİ"),
       ("Toronto", "Orlando", "02:30 TSİ"),
       ("Dallas", "Houston", "03.00 TSİ"),
       ("Miami", "Indiana", "03.00 TSİ"),
