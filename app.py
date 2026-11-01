@@ -298,7 +298,7 @@ DEFAULT_ELITE_DATA = {
         9,
         10,
     ],
-    "LA lakers": [
+    "La lakers": [
         114.3984266,
         114.3984266,
         112.3912808,
