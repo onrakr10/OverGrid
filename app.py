@@ -110,7 +110,7 @@ todays_matches = [
     ("New York", "Brooklyn", "03:30 TSİ"),
     ("Phila", "Chicago", "03:30 TSİ"),
     ("Indiana", "Atlanta", "03:30 TSİ"),
-    ("Charlotte", "Detorit", "03:30 TSİ"),
+    ("Charlotte", "Detroit", "03:30 TSİ"),
     ("Orlando", "Washington", "03:30 TSİ"),
     ("Minnesota", "Milwaukee", "04:00 TSİ"),
     ("Memphis", "New Orleans", "04:00 TSİ"),
