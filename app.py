@@ -118,7 +118,7 @@ todays_matches = [
     ("Phoenix", "Portland", "05:00 TSİ"),
     ("Denver", "Toronto", "05:00 TSİ"),
     ("San Antonio", "Dallas", "05:30 TSİ"),
-    ("Sacramento", "La Lakers", "06:00 TSİ"),
+    ("Sacramento", "LA Lakers", "06:00 TSİ"),
     ("LA Clippers", "Miami", "06:30 TSİ"),
 ]
 
